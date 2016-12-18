@@ -13,7 +13,9 @@ Your file extension must be ```.saql```
 
 ## Features
 
-![Screenshot syntax highlighter](https://github.com/seddryck/stream-analytics-query-language-tmBundle/raw/master/screenshot.png "Screenshot syntax highlighter")
+![Screenshot syntax highlighter - Dark theme](https://github.com/seddryck/stream-analytics-query-language-tmBundle/raw/master/screenshot-dark.png "Screenshot syntax highlighterr - Dark theme")
+
+![Screenshot syntax highlighter - Blue theme](https://github.com/seddryck/stream-analytics-query-language-tmBundle/raw/master/screenshot-blue.png "Screenshot syntax highlighterr - Blue theme")
 
 The bundle currently includes syntax highlighting. Later, I'll add convenient listing for functions and a number of expando snippets.
 
