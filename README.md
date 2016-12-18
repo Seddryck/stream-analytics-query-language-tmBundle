@@ -9,11 +9,14 @@ A **TextMate Bundle** for the **Azure stream analytics query language**.
 
 ## Usage
 
-Your file extension must be ```.saql```
+Your file extension must be ```.saql```, ```asa``` or ```asaql```.
 
 ## Features
+### Dark theme of Visual Studio
 
 ![Screenshot syntax highlighter - Dark theme](https://github.com/seddryck/stream-analytics-query-language-tmBundle/raw/master/screenshot-dark.png "Screenshot syntax highlighterr - Dark theme")
+
+### Blue theme of Visual Studio
 
 ![Screenshot syntax highlighter - Blue theme](https://github.com/seddryck/stream-analytics-query-language-tmBundle/raw/master/screenshot-blue.png "Screenshot syntax highlighterr - Blue theme")
 

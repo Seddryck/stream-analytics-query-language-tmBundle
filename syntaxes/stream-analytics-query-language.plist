@@ -5,6 +5,8 @@
 	<key>fileTypes</key>
 	<array>
 		<string>saql</string>
+    <string>asaql</string>
+    <string>asa</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~S</string>
