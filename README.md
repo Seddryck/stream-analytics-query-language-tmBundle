@@ -9,7 +9,7 @@ A **TextMate Bundle** for the **Azure stream analytics query language**.
 
 ## Usage
 
-Your file extension must be ```.saql```, ```asa``` or ```asaql```.
+Your file extension must be ```.saql```, ```.asa``` or ```.asaql```.
 
 ## Features
 ### Dark theme of Visual Studio
