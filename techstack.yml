@@ -1,0 +1,18 @@
+repo_name: Seddryck/stream-analytics-query-language-tmBundle
+report_id: cfcb9c61337f5081e081275da1bcf198
+repo_type: Public
+timestamp: '2023-11-12T20:22:41+00:00'
+requested_by: Seddryck
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
